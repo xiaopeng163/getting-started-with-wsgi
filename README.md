@@ -1,6 +1,12 @@
 Getting Started with WSGI
 =========================
 
+# Why this book?
+
+WSGI is a greate component in [OpenStack](https://www.openstack.org/). If you want to understand the code of some projects like Neutron in OpenStack, you must know
+WSGI firstly.
+
+
 # About language
 
 The first version will be chinese.
