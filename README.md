@@ -10,11 +10,13 @@ There are many famous Web frameworks, like `Django`、 `Flask`、`CherryPy`, etc
 
 # About language
 
-The first version will be chinese. 
+The first version will be chinese, but not all is Chinese.
 
 English version will be in future.
 
 # Contribution
+
+如果想参与本文的编写或者提出建议：
 
 please use pull request or issues in `github`
 
