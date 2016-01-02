@@ -3,24 +3,19 @@ Getting Started with WSGI
 
 # Why this book?
 
-`WSGI` is a greate component in [OpenStack](https://www.openstack.org/). If you want to understand the code of some projects like `Neutron` in OpenStack, you must know
-`WSGI` firstly.
+`WSGI` is a great component in [OpenStack](https://www.openstack.org/). Understanding `WSGI` gives you the knowledge base you need to understand the code behind other popular projects, such as `Neutron`, `Django`, `Flask`, and `CherryPy`.
 
-There are also many famous Web frameworks, like `Django`、 `Flask`、`CherryPy`, etc. If you want to understand them well, you also need to know `WSGI`.
+# Translations
 
-# About language
-
-The first version will be `Chinese`, but not all is `Chinese`.
-
-`English` version will be in future.
+The first version will be `Chinese`, but other translations are in the works. We're planning an `English` translation in the future.
 
 # Contribution
 
 如果想参与本文的编写或者提出建议：
 
-please use pull request or issues in `github`
+Please use pull request or issues in `github`.
 
-source code: https://github.com/xiaopeng163/getting-started-with-wsgi
+Source code lives here: https://github.com/xiaopeng163/getting-started-with-wsgi
 
 # TODO
 
